@@ -1,0 +1,26 @@
+[0m2021.07.05 10:50:21 INFO  Started: Metals version 0.10.4 in workspace '/Users/loganj/Projects/Typescript_Projects/db_api' for client Visual Studio Code 1.57.1.[0m
+[0m2021.07.05 10:50:23 INFO  time: initialize in 1.29s[0m
+[0m2021.07.05 10:50:23 WARN  Build server is not auto-connectable.[0m
+[0m2021.07.05 10:50:23 WARN  no build tool detected in workspace '/Users/loganj/Projects/Typescript_Projects/db_api'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.07.05 10:50:23 WARN  no build target for: /Users/loganj/Projects/Typescript_Projects/db_api/psql/main.scala[0m
+[0m2021.07.05 10:50:25 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.07.05 10:50:25 INFO  time: code lens generation in 1.41s[0m
+[0m2021.07.05 10:50:25 INFO  time: code lens generation in 2.37s[0m
+Jul 05, 2021 10:50:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+[0m2021.07.05 10:50:38 WARN  no build target for: /Users/loganj/Projects/Typescript_Projects/db_api/psql/main.scala[0m
+[0m2021.07.05 10:50:41 WARN  no build target for: /Users/loganj/Projects/Typescript_Projects/db_api/psql/main.scala[0m
+[0m2021.07.05 10:58:32 WARN  no build target for: /Users/loganj/Projects/Typescript_Projects/db_api/psql_scala/build.sbt[0m
+[0m2021.07.05 11:01:46 WARN  no build target for: /Users/loganj/Projects/Typescript_Projects/db_api/psql_scala/src/main/scala/API.scala[0m
+Jul 05, 2021 11:02:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 173
+[0m2021.07.05 11:02:16 WARN  no build target for: /Users/loganj/Projects/Typescript_Projects/db_api/psql_scala/build.sbt[0m
+Jul 05, 2021 11:02:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 372
+[0m2021.07.05 11:02:42 WARN  no build target for: /Users/loganj/Projects/Typescript_Projects/db_api/psql_scala/build.sbt[0m
+[0m2021.07.05 11:04:39 WARN  no build target for: /Users/loganj/Projects/Typescript_Projects/db_api/psql_scala/build.sbt[0m
+[0m2021.07.05 11:05:13 WARN  no build target for: /Users/loganj/Projects/Typescript_Projects/db_api/psql_scala/build.sbt[0m
+[0m2021.07.05 11:06:22 WARN  no build target for: /Users/loganj/Projects/Typescript_Projects/db_api/psql_scala/build.sbt[0m
+[0m2021.07.05 11:09:24 WARN  no build target for: /Users/loganj/Projects/Typescript_Projects/db_api/psql_scala/build.sbt[0m
+[0m2021.07.05 11:10:31 WARN  no build target for: /Users/loganj/Projects/Typescript_Projects/db_api/psql_scala/src/main/scala/API.scala[0m
+[0m2021.07.05 11:11:41 WARN  no build target for: /Users/loganj/Projects/Typescript_Projects/db_api/psql_scala/src/main/scala/API.scala[0m
